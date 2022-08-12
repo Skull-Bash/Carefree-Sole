@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Carefree Sole</string>
+    <string name="connect_button">Connect</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+
+    <string name="btn_10">10</string>
+    <string name="btn_11">11</string>
+    <string name="btn_12">12</string>
+
+    <string name="Mode">Modes</string>
+    <string name="Individual">Individuals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mode_1">Mode 1</string>
+    <string name="mode_2">Mode 2</string>
+    <string name="mode_3">Mode 3</string>
+    <string name="mode_4">Mode 4</string>
+    <string name="mode_5">Mode 5</string>
+</resources>
